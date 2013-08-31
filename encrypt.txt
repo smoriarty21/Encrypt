@@ -1,0 +1,33 @@
+encryption:
+
+assign numbers for lertters and space:
+
+a:69
+b:71
+c:82
+d:13
+e:56
+f:55
+g:54
+h:35
+i:18
+j:12
+k:25
+l:19
+m:12
+n:11
+o:17
+p:16
+q:30
+r:40
+s:82
+t:21
+u:95
+v:79
+w:10
+x:22
+y:56
+z:84
+space:20
+
+test = 21568221
